@@ -1,6 +1,6 @@
-# Project Title
+# like-post
 
-A simple plugin for collecting a list of favorite posts for users of news sites or blogs
+A wordpress plugin for collecting a list of favorite posts for users of news sites or blogs
 
 ## Getting Started
 
